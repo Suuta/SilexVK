@@ -1,0 +1,7 @@
+shadingModel: 1
+albedo: [0.250965238, 0.250965238, 0.250965238]
+albedoMap: 2
+emission: [0, 0, 0]
+metallic: 0
+roughness: 0.170000002
+textureTiling: [10, 10]
