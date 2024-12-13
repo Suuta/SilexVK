@@ -16,7 +16,7 @@
 ## ビルド
 
 ```bat
-git clone --recursive https://github.com/Suuta/Silex.git
+git clone --recursive https://github.com/Suuta/SilexVK.git
 ```
 
 クローン後に ***project.bat*** を実行して *VisualStudio* ソリューションを生成します。<br>
